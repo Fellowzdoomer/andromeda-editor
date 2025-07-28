@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"base_texture_name",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"base_texture_name",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

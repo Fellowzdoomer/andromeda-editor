@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"slice_font_strip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"slice_font_strip",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

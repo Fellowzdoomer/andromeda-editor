@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"init_doom_sprite_otf",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_doom_sprite_otf",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

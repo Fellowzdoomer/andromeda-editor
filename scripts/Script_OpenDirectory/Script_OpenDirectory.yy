@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Script_OpenDirectory",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Script_OpenDirectory",
+  "parent":{
+    "name":"FileManager",
+    "path":"folders/Scripts/FileManager.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

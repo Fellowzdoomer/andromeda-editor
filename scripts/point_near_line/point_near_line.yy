@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"point_near_line",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_near_line",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

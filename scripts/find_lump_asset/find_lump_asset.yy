@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"find_lump_asset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"find_lump_asset",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
